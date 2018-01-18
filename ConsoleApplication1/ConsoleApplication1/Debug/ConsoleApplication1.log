@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(186): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(187): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(200): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(177): warning C4715: Metod::solList: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\Виктор\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
