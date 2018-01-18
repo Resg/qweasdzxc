@@ -1,0 +1,13 @@
+﻿  dz.cpp
+c:\users\sergey\source\repos\dz\dz\dz.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(176): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergey\source\repos\dz\dz\dz.cpp(185): warning C4018: <: несоответствие типов со знаком и без знака
+  dz.vcxproj -> C:\Users\Sergey\source\repos\dz\Debug\dz.exe
